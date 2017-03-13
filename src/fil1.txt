@@ -1,0 +1,5 @@
+dette er en
+fil
+med en 
+del linjer
+og innhold
